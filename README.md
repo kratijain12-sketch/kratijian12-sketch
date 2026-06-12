@@ -318,6 +318,12 @@ Applied design thinking and communication skills in a social impact environment,
   <img src="https://img.shields.io/badge/Canva-Visual%20Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=0d0d1a" />
 </p>
 
+## ◈ Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kratijain12-sketch/kratijain12-sketch/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 ## ◈ Current Focus
