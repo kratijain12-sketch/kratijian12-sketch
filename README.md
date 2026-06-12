@@ -286,7 +286,6 @@ Applied design thinking and communication skills in a social impact environment,
 | 📊 Power BI Badge Series (9+ Modules) | ✅ Complete |
 | 🤝 First Open Source Contribution | 🔄 In Progress |
 | ⭐ First GitHub Star Received | 🔄 In Progress |
-| 🐍 Contribution Snake Activated | 🔄 In Progress |
 
 </div>
 
@@ -316,12 +315,6 @@ Applied design thinking and communication skills in a social impact environment,
   <img src="https://img.shields.io/badge/Responsive%20Design-Mobile%20First-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0d1a" />
   <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d1a" />
   <img src="https://img.shields.io/badge/Canva-Visual%20Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=0d0d1a" />
-</p>
-
-## ◈ Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kratijain12-sketch/kratijain12-sketch/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
