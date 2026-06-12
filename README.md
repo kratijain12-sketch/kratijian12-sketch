@@ -273,11 +273,22 @@ Applied design thinking and communication skills in a social impact environment,
 
 ---
 
-## ◈ GitHub Trophies
+## ◈ GitHub Milestones
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kratijain12-sketch&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</p>
+<div align="center">
+
+| Milestone | Status |
+|---|---|
+| 🚀 Created GitHub Profile README | ✅ Complete |
+| 💼 Launched Personal Portfolio Site | ✅ Complete |
+| 🎨 First Figma Design Project | ✅ Complete |
+| 🌐 First HTML/CSS Website | ✅ Complete |
+| 📊 Power BI Badge Series (9+ Modules) | ✅ Complete |
+| 🤝 First Open Source Contribution | 🔄 In Progress |
+| ⭐ First GitHub Star Received | 🔄 In Progress |
+| 🐍 Contribution Snake Activated | 🔄 In Progress |
+
+</div>
 
 ---
 
@@ -289,10 +300,22 @@ Applied design thinking and communication skills in a social impact environment,
 
 ---
 
-## ◈ Contribution Snake
+## ◈ Skills at a Glance
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kratijain12-sketch/kratijain12-sketch/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://img.shields.io/badge/Figma-UI%2FUX%20Design-7C3AED?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d0d1a" />
+  <img src="https://img.shields.io/badge/HTML5-Frontend-6D28D9?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0d1a" />
+  <img src="https://img.shields.io/badge/CSS3-Styling-5B21B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d0d1a" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0d0d1a" />
+  <img src="https://img.shields.io/badge/Python-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d1a" />
+  <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d0d1a" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Responsive%20Design-Mobile%20First-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0d1a" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d1a" />
+  <img src="https://img.shields.io/badge/Canva-Visual%20Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=0d0d1a" />
 </p>
 
 ---
